@@ -39,7 +39,7 @@ Used to identify and classify assets from LiDAR. *(Ex. [Exisiting Power Poles](a
 ## Tools
 - [ArcGIS Pro](tools/arcgis.md)
 - [Trimble Business Center](tools/tbc.md)
-- [TopoDOT](tools/topodot.md)
+- [TopoDOT](tools/topodot/index.md)
 
 ---
 
