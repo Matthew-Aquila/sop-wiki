@@ -1,4 +1,4 @@
-# [TopoDOT]
+# TopoDOT
 
 ## Overview
 Methods to set up TopoDOT and TopoShare for asset extraction and basemap generation
